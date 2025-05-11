@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kiki/Documents/pny.arin/prak.algo/projek.algo/projectprak.algo.s2",
+      "program": "/Users/kiki/Documents/pny.arin/prak.algo/projek.algo/projectprak.algo.s2/build/Debug/outDebug"
+    }
+  ]
+}

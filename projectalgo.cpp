@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <string>
 using namespace std;
-
+// coba lagi
 struct Lokasi
 {
     string kota;
