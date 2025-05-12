@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <string>
 using namespace std;
-// coba lagi
+// coba lagi ini percobaan ke 2
 struct Lokasi
 {
     string kota;
@@ -14,6 +14,7 @@ struct Waktu
     int jam;
     int menit;
 };
+// ini ke 3
 
 struct Cuaca
 {
