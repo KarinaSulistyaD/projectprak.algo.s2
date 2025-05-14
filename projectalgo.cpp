@@ -86,6 +86,7 @@ void tampilkan_menu()
     cout << "3. Cari Suhu Maksimum" << endl;
     cout << "4. Cari Data Berdasarkan Tanggal" << endl;
     cout << "5. Urutkan Data Berdasarkan Suhu (Insertion Sort)" << endl;
+    cout << "5. coba" << endl;
     cout << "6. Keluar" << endl;
 }
 
