@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 // coba lagi ini percobaan ke 2
-struct Lokasi
+struct Lokasi 
 {
     string kota;
     string negara;
@@ -43,10 +43,6 @@ int main()
         tampilkan_menu();
         int pilihan;
         cout << "Pilih menu (1-6): ";
-        cout << "Masukkan pilihan: (coba github) mau dicoba lagis" << endl;
-        cout << "Masukkan pilihan: (coba github) mau dicoba lagis" << endl;
-        cout << "Masukkan pilihan: (coba github) mau dicoba lagis 3" << endl;
-        cout << "Masukkan pilihan: ";
         cin >> pilihan;
         cin.ignore();
 
